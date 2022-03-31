@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Self%20taught%20Machine%20Learning%20Engineer;Always%20Passionate%20for%20new%20skills&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=bSelf%20taught%20Machine%20Learning%20Engineer;Always%20Passionate%20for%20new%20skills;Exploring%20Sustainable%20Development&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- Social icons section -->
